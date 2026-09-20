@@ -4,7 +4,8 @@ Fast-paced 2D bullet-heaven survival action minigame powered by FriendSDK. Dodge
 
 **Builder:** [Karatboo](https://github.com/Karatboo) · **Category:** Character Spotlight & Token Activity · **SDK:** FriendSDK v0.1.2
 
-Source code and playable runtime: [rare-survivor on GitHub](https://github.com/Karatboo/friendsdk/tree/main/games/rare-survivor) · [Game rules](https://github.com/Karatboo/friendsdk/blob/main/games/rare-survivor/game.json)
+- **Game source code:** [game/](game/) (includes `index.tsx`, `style.css`, `game.json`)
+- **Game rules & weights:** [game/game.json](game/game.json) (10,000 basis points weighted chance table)
 
 ---
 
@@ -13,9 +14,10 @@ Source code and playable runtime: [rare-survivor on GitHub](https://github.com/K
 Use Node.js 22+ on Windows/Linux or Ubuntu in WSL2, plus a browser wallet holding a hardwired Rare Friends Generations NFT (generation ≥ 1) on Robinhood mainnet (chain 4663).
 
 ```sh
-git clone https://github.com/Karatboo/friendsdk.git
+git clone https://github.com/spokesz/friendsdk.git
 cd friendsdk
 npm ci
+# Copy submissions/rare-survivor/game into games/rare-survivor
 npm run dev:game -- games/rare-survivor
 ```
 
