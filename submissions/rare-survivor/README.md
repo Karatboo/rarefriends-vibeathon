@@ -2,7 +2,10 @@
 
 Fast-paced 2D bullet-heaven survival action minigame powered by FriendSDK. Dodge swarms of crypto bear market enemies (Jeets, Red Candlestick tanks, and FUD ghosts) while auto-blasting green candle lasers, and collect simulated $RF gems to survive the winter.
 
-**Builder:** [Karatboo](https://github.com/Karatboo) · **Category:** Character Spotlight & Token Activity · **SDK:** FriendSDK v0.1.2
+**Builder:** [Karatboo](https://github.com/Karatboo) (X: [@Markestolle](https://x.com/Markestolle))  
+**Payout Address (EVM / Robinhood Chain):** `0xad5460efaf11d4c34edfb8c0bbbdc660754084cb`  
+**Category:** Character Spotlight & Token Activity  
+**SDK:** FriendSDK v0.1.2
 
 - **Game source code:** [game/](game/) (includes `index.tsx`, `style.css`, `game.json`)
 - **Game rules & weights:** [game/game.json](game/game.json) (10,000 basis points weighted chance table)

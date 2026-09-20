@@ -2,6 +2,9 @@
 
 > An adrenaline-pumping 2D survival action minigame built for the **Rare Friends Vibeathon** ($40,000 prize pool).
 
+**Builder:** [Karatboo](https://github.com/Karatboo) (X: [@Markestolle](https://x.com/Markestolle))  
+**Payout Address (EVM / Robinhood Chain):** `0xad5460efaf11d4c34edfb8c0bbbdc660754084cb`  
+
 ---
 
 ## 🎮 Overview
@@ -61,7 +64,8 @@ Connect your browser wallet (on Robinhood mainnet, holding a generation ≥ 1 Ra
 ## 📦 Vibeathon Submission Details
 
 - **Project Name**: Rare Survivor: Crypto Winter
-- **Repository**: [spokesz/friendsdk](https://github.com/spokesz/friendsdk) -> `games/rare-survivor`
+- **Builder**: Karatboo (X: [@Markestolle](https://x.com/Markestolle))
+- **Payout Address**: `0xad5460efaf11d4c34edfb8c0bbbdc660754084cb`
 - **Submission Target**: [spokesz/rarefriends-vibeathon](https://github.com/spokesz/rarefriends-vibeathon)
 - **Runtime**: FriendSDK v0.1.2 Sandboxed React Runtime
 - **Contract / Economy**: Simulated $RAREFRIENDS token reward calculations & chance packs (strictly compliant with hackathon simulated MVP rule).
